@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">SimpleSmartphone</string>
+    <string name="sphones_name">Smartphone Name</string>
+    <string name="detail">detail</string>
+    <string name="profil">profil</string>
+    <string name="my_name">Catur Saputro</string>
+    <string name="my_email">caturcno.cr@gmail.com</string>
+    <string name="specs_sphone">Spesifikasi Smartphone</string>
+    <string name="title_identity">Rilis \nHarga \nLayar \nProcessors \nGPU \nRAM \nMemori Internal \nMemori Eksternal \nKamera Belakang \nKamera Depan \nBaterai</string>
+    <string name="content_identity">content_specs</string>
+    <string name="rilis">Rilis</string>
+    <string name="harga">Harga</string>
+    <string name="processors">Processors</string>
+    <string name="gpu">GPU</string>
+    <string name="ram">RAM</string>
+    <string name="memori_internal">Memori Internal</string>
+    <string name="memori_eksternal">Memori Eksternal</string>
+    <string name="kamera_belakang">Kamera Belakang</string>
+    <string name="kamera_depan">Kamera Depan</string>
+    <string name="baterai">Baterai</string>
+    <string name="chipset">Chipset</string>
+    <string name="cpu">CPU</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">share</string>
+</resources>
